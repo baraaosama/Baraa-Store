@@ -8,6 +8,9 @@
 -vuex
 -api
 
+## Live Demo
+<a href='https://melodious-daifuku-9a44ab.netlify.app/'>Here<a/>
+
 ## Project setup
 ```
 npm install
