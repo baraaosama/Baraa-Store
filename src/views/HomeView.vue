@@ -62,6 +62,7 @@ export default {
       width: 30%;
       left: 50%;
       transform: translateX(-50%);
+      display: block !important;
       a{
         text-decoration: none;
         color: unset;
@@ -78,6 +79,18 @@ export default {
   @media (max-width:767px) {
     .category{
       height: unset;
+      .carousel-caption{
+        width: 40%;
+        padding: 5px;
+        h5{
+          font-size: 14px;
+          margin: 0;
+        }
+        p{
+          font-size: 12px;
+          margin: 0;
+        }
+      }
     }
   }
 </style>
