@@ -1,4 +1,12 @@
-# louisvuittonproject
+# Baraa Store
+### this is E-commerce website with vue js
+## tools
+-html 
+-css 
+-js
+-vuejs
+-vuex
+-api
 
 ## Project setup
 ```
